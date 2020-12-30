@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arraydemo2", "arraydemo2\ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arraydemo3", "arraydemo3\arraydemo3.csproj", "{E4ACFE26-7150-4E19-8076-8A63F1078E7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraydemo4", "arraydemo4\arraydemo4.csproj", "{4373876E-0039-4A46-8060-678B50FFB478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arraydemo4", "arraydemo4\arraydemo4.csproj", "{4373876E-0039-4A46-8060-678B50FFB478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraydemo5", "arraydemo5\arraydemo5.csproj", "{825AB202-FB63-4177-9C61-111BBBC62591}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4373876E-0039-4A46-8060-678B50FFB478}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4373876E-0039-4A46-8060-678B50FFB478}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4373876E-0039-4A46-8060-678B50FFB478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825AB202-FB63-4177-9C61-111BBBC62591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825AB202-FB63-4177-9C61-111BBBC62591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825AB202-FB63-4177-9C61-111BBBC62591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825AB202-FB63-4177-9C61-111BBBC62591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
